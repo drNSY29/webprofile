@@ -1,0 +1,25 @@
+.jumbotron {
+  padding: 2em 1em;
+  background-color: #fafafa;
+}
+
+.head-font {
+  font-family: Suisseintl, sans-serif;
+  color: #333;
+  font-size: 5em;
+  line-height: 1.1;
+  font-weight: 400;
+  letter-spacing: -0.06em;
+}
+
+.menu-font {
+  font-family: Suisseintl, sans-serif;
+  font-size: 1em;
+  margin-left: 20px;
+  font-weight: bolder;
+}
+
+.background-main {
+  background-color: #fafafa;
+  padding: 0;
+}
