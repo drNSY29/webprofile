@@ -23,3 +23,74 @@
   background-color: #fafafa;
   padding: 0;
 }
+
+.background-dark {
+  background-color: #ebebeb;
+  padding: 0;
+  color: black;
+}
+
+.background-black {
+  background-color: black;
+  padding: 0;
+  color: White;
+}
+
+.min-height {
+  height: 720px;
+}
+
+.paragraph-number-s {
+  font-family: Suisseintl, sans-serif;
+  font-weight: 500;
+}
+
+.portofolio {
+  padding: 100px 40px 100px 40px;
+}
+
+.h2-portofolio {
+  font-family: Suisseintl, sans-serif;
+  color: #333;
+  font-size: 6em;
+  line-height: 1.1em;
+  font-weight: 400;
+  letter-spacing: -0.06em;
+}
+
+.title-portofolio {
+  margin: 80px 0 80px 0;
+}
+
+.img-portofolio-home-1 {
+  background-image: url(../img/Website-1.jpg);
+  height: 70vh;
+  background-position: 50% 50%;
+  background-size: 600px;
+  background-repeat: no-repeat;
+}
+
+.img-portofolio-home-2 {
+  background-image: url(../img/Website-2.jpg);
+  height: 70vh;
+  background-position: 50% 50%;
+  background-size: 600px;
+  background-repeat: no-repeat;
+}
+
+.list-unstyled li {
+  padding-bottom: 8px;
+}
+
+.footer {
+  font-family: Suisseintl, sans-serif;
+  letter-spacing: 0.13em;
+}
+
+.heading-footer {
+  font-size: 8em;
+  font-family: Suisseintl, sans-serif;
+  line-height: 1.1em;
+  font-weight: 400;
+  letter-spacing: -0.06em;
+}
